@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 이현섭</h1>
-<h3 align="center">JAVA 개발자 양성 과정</h3>
+<h3 align="center">React & Spring 활용 자바(JAVA) 개발자 양성과정</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhs880425&label=Profile%20views&color=0e75b6&style=flat" alt="lhs880425" /> </p>
 
